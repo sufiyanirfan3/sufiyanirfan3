@@ -16,15 +16,15 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-I am a Full Stack Developer with a huge love for Vue.js, React.js, Laravel,Node js, Nest js , Everything API, WordPress, TailwindCSS. Currently, **I'm open to work and employment opportunities**.
+I am a Full Stack Developer with a huge love for React.js, Laravel,Node js, Nest js , Everything API, WordPress, TailwindCSS. Currently, **I'm open to work and employment opportunities**.
 
 
-- :fireworks: I am a level 2 freelancer on fiverr providing web development and custom trained chatbot services.
+- :fireworks: I have 1.5 years of experience working as a NodeJS developer.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about Vue.js, React.js, Alpine.js, PHP, WordPress, Laravel and API development.
+- 💬 Ask me about React.js, NodeJS, PHP, WordPress, Laravel and API development.
 - 📫 I am just one mail away - [sufiyanirfan1613 at gmail dot com]
-- 😄 Pronouns: He, Fat & Happy 😄
+- 😄 Pronouns: He, Chasmish & Happy 😄
 
 ### Numbers
 ![sufiyanirfan's Stats](https://github-readme-stats.vercel.app/api?username=sufiyanirfan3&theme=darcula&show_icons=true&hide_border=true&count_private=true)
